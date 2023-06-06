@@ -1,0 +1,1 @@
+function Yes(){alert("You acepted, great choice! :)")}function desvia(a){var b=a;b.style.position="absolute",b.style.bottom=geraPosicao(10,90),b.style.left=geraPosicao(10,90),console.log("nah...")}function geraPosicao(a,b){return Math.random()*(b-a)+a+"%"}
